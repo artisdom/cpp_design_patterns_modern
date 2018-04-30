@@ -1,0 +1,11 @@
+# Driver
+g++
+#clang++
+
+# Language
+#-xc++
+-std=c++14
+
+# Includes
+#-I/work/cquery/third_party
+-I/mnt/home/w/c++/lua-5.3.4/install/include
